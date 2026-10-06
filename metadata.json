@@ -1,0 +1,6 @@
+{
+  "name": "Dr. José Roberto - Cardiologista em São Paulo",
+  "description": "Consultório de Cardiologia do Dr. José Roberto em São Paulo. Check-up cardiológico preventivo, exames e acompanhamento personalizado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
